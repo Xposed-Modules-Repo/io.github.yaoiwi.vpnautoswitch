@@ -25,3 +25,4 @@
 
 - 源码与更新：[github.com/yaoiwi/VpnAutoSwitch](https://github.com/yaoiwi/VpnAutoSwitch)
 - 问题反馈：[Issues](https://github.com/yaoiwi/VpnAutoSwitch/issues)
+- 更新日志：[CHANGELOG.md](https://github.com/Xposed-Modules-Repo/io.github.yaoiwi.vpnautoswitch/blob/main/CHANGELOG.md)
